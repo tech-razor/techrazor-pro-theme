@@ -1,0 +1,54 @@
+{
+  "name": "techrazor-pro-theme",
+  "displayName": "Tech Razor Pro Theme",
+  "description": "A colour theme for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "tech-razor",
+  "license": "MIT",
+  "pricing": "Free",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tech-razor/techrazor-pro-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tech-razor/techrazor-pro-theme/issues",
+    "email": "developer@techrazor.co.uk"
+  },
+  "homepage": "https://github.com/tech-razor/techrazor-pro-theme/blob/master/README.md",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "techrazor",
+    "tech-razor",
+    "tech razor",
+    "purple",
+    "dark"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "theme": "light",
+    "color": "#F2F2F2"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tech Razor Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/techrazor-pro-color-theme.json"
+      }
+    ]
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/tech-razor"
+  },
+  "scripts": {
+    "format": "prettier . --write"
+  },
+  "devDependencies": {
+    "prettier": "3.0.3"
+  }
+}
