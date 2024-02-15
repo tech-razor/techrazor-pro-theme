@@ -1,8 +1,9 @@
-.vscode/**
-.vscode-test/**
 .gitattributes
+.github/**
 .gitignore
 .prettierignore
 .prettierrc.json
-vsc-extension-quickstart.md
+.vscode/**
+.vscode-test/**
 screenshots/**
+vsc-extension-quickstart.md
