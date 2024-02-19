@@ -6,20 +6,30 @@ The theme supports a wide variety of languages. Below are just a few examples.
 
 ## Welcome screen
 
-![IDE welcome screen](screenshots/01-new-project.png)
+![IDE welcome screen](screenshots/01-welcome.png)
 
-## Markdown and HTML
+## Terminal
 
-![Markup files in the editor](screenshots/02-files.png)
+![Terminal showing output of a script](screenshots/02-terminal-1.png)
+
+![Terminal showing commit history](screenshots/02-terminal-2.png)
+
+## HTML
+
+![HTML file in the editor](screenshots/03-html.png)
 
 ## CSS
 
-![CSS file in the editor](screenshots/03-more-files.png)
+![CSS file in the editor](screenshots/04-css.png)
+
+## Markdown
+
+![Markdown file in the editor](screenshots/07-markdown.png)
 
 ## TypeScript
 
-![TypeScript files in the editor](screenshots/04-typescript.png)
+![TypeScript file in the editor](screenshots/05-typescript.png)
 
 ## Search results
 
-![Search results in the editor](screenshots/05-search-results.png)
+![Search results in the editor](screenshots/06-search.png)
